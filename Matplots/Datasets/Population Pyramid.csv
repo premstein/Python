@@ -1,0 +1,43 @@
+﻿Stage,Gender,Users
+Stage 01: Browsers,Male,-14927618.71
+Stage 02: Unbounced Users,Male,-12862663.41
+Stage 03: Email Signups,Male,-11361896.41
+Stage 04: Email Confirmed,Male,-9411708.103
+Stage 05: Campaign-Email Opens,Male,-8074316.616
+Stage 06: Campaign-Email Clickthroughs,Male,-6958512.218
+Stage 07: Buy Button Page,Male,-6045363.483
+Stage 08: Buy Button Clickers,Male,-5029954.214
+Stage 09: Cart Confirmation Page,Male,-4008034.113
+Stage 10: Address Verification Page,Male,-3172555.225
+Stage 11: Submit Order Page,Male,-2484808.199
+Stage 12: Payment,Male,-1903727.481
+Stage 13: Payment Successful,Male,-1490277.016
+Stage 14: 1st Successful Purchase,Male,-1152003.965
+Stage 15: 2nd Purchase,Male,-770748.0581
+Stage 16: 3rd Purchase,Male,-434430.0282
+Stage 17: 4th Purchase,Male,-195031.8899
+Stage 18: 5th Purchase,Male,-58570.22156
+Stage 18: 5th Purchase,Male,-12215.44585
+Stage 18: 5th Purchase,Male,888.4953522
+Stage 18: 5th Purchase,Male,-443.6190501
+Stage 01: Browsers,Female,14226434.29
+Stage 02: Unbounced Users,Female,12276042.59
+Stage 03: Email Signups,Female,10850385.59
+Stage 04: Email Confirmed,Female,8999931.897
+Stage 05: Campaign-Email Opens,Female,7732693.384
+Stage 06: Campaign-Email Clickthroughs,Female,6666393.782
+Stage 07: Buy Button Page,Female,5743259.517
+Stage 08: Buy Button Clickers,Female,4723254.786
+Stage 09: Cart Confirmation Page,Female,3680878.887
+Stage 10: Address Verification Page,Female,3002640.775
+Stage 11: Submit Order Page,Female,2467804.801
+Stage 12: Payment,Female,1977277.519
+Stage 13: Payment Successful,Female,1593649.984
+Stage 14: 1st Successful Purchase,Female,1229651.035
+Stage 15: 2nd Purchase,Female,828496.9419
+Stage 16: 3rd Purchase,Female,486621.9718
+Stage 17: 4th Purchase,Female,227106.1101
+Stage 18: 5th Purchase,Female,73466.77844
+Stage 18: 5th Purchase,Female,12654.55415
+Stage 18: 5th Purchase,Female,3425.495352
+Stage 18: 5th Purchase,Female,-306.6190501
